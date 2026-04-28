@@ -1,0 +1,17 @@
+[
+  {
+    "name": "pikachu",
+    "weight": 60,
+    "type": "electric"
+  },
+  {
+    "name": "bulbasaur",
+    "weight": 69,
+    "type": "grass"
+  },
+  {
+    "name": "charmander",
+    "weight": 85,
+    "type": "fire"
+  }
+]

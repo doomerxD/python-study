@@ -10,7 +10,7 @@ client = anthropic.Anthropic(
 )
 
 message = client.messages.create(
-    model="claude-3-haiku-20240307", 
+    model="claude-haiku-4-5",  # ← 最新のHaikuモデル
     max_tokens=1024,
     messages=[
         {
